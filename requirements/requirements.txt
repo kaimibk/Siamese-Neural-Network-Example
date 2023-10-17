@@ -1,0 +1,4 @@
+jupyterlab
+ipywidgets
+ray[data,train,tune]
+scikit-learn
